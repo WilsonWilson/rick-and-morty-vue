@@ -1,4 +1,4 @@
-# my-project
+# Rick-and-morty-vue
 
 ## Project setup
 ```
